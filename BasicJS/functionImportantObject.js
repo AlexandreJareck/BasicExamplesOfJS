@@ -29,3 +29,6 @@ let assing = Object.assign(dest, obj1, obj2) // primeiro parametro é o objeto q
 // que se repete em obj1 e obj2, ele sobreescreve o obj de dest., 
 
 console.log(assing);
+
+
+
